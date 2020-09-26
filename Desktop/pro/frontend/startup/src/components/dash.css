@@ -1,0 +1,17 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: DodgerBlue;
+  }
+  .feed{
+      margin-top: auto;
+      margin-left: 200px;
+      margin-right: 200px;
+      align-items: center;
+  }
+  .c{
+     
+  
+    margin: 10px auto 20px;
+    display: block;
+  }
